@@ -3,7 +3,7 @@ This part will teach you about how to connect the magnetic board(the new smaller
 You should notice that there are a few different names we use for **DIFFERENT** things: *pins*, *channels* and *ports*. 
 
 For *pins*, it is talking about the golden metal *pins* coming out of the board.  
-For *channels*, we are talking ablut the internal wiring of the board, aka where the pins is connected to(inside the board).  
+For *channels*, we are talking about the internal wiring of the board, aka where the pins is connected to(inside the board).  
 For *ports*, we are talking about the group of *pins* that is grouped together with the black header.  
 
 *AND* we got 2 boards now, the smaller one we called it *magnetic board* and for the larger one(that you used before) we called it *main board*.
